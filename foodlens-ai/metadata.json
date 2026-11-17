@@ -1,0 +1,6 @@
+{
+  "name": "FoodLens AI",
+  "description": "AI-powered food recognition, verified nutrition analysis, and personalized dietary intelligence platform with Indian & global cuisine support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
